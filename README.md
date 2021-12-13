@@ -2,6 +2,8 @@
 
 Pac-Man 3D is a remake of the classic Arcade game Pac-Man built in Unity3D with C# for my final project at Harvard Extension's E23 Game Development course.
 
+![Pacman classic image](./PM_new_artwork2.png)
+
 ## Description
 
 It's the classic arcade game [Pac-Man](https://www.pacman.com/en/), but in 3-D.
@@ -26,13 +28,12 @@ Navigate your character through the maze using the keyboard keys and mouse:
 | `D` or &rarr; | Right      |
 | `Spacebar`    | Jump       |
 | `Mouse`       | Camera (look) |
-| `P`           | Pause      |
-| `M`           | Return to Main Menu (start over) |
-| `esc`         | Close application |
 
 ### The journey for this project
 
 I originally created a 2-D maze game for 2-players in JavaScript, where each player character can throw burgers at each other. This was for an old project for another class a few years ago, and I wanted to update that game by building it in Unity3D with updated art and music. To do so, I knew I needed to learn Blender and learn more about the Unity game engine as well. After about a week of additional tutorials, I still felt I could pursue this, but when I got to the Texture/UV mapping and Animation rigging, I realized that this goal was a bit ambitious. I "switched gears" to make a classic arcade maze game as a more reachable goal.
+
+Icouldn't get my ghost(s) working. I was trying to implement an AI for them to chase pacman.
 
 I hope you enjoy playing this game as much as I enjoyed making it. Thank you for a wonderful semester.
 
